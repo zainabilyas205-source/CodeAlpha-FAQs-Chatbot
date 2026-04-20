@@ -94,8 +94,8 @@ CodeAlpha_ChatbotForFAQs/
 ## 👤 Author
 
 - **Intern at CodeAlpha**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: [https://www.linkedin.com/in/zainab-ilyas-559109349/]
+- GitHub: [https://github.com/zainabilyas205-source/CodeAlpha-FAQs-Chatbot]
 
 ---
 
