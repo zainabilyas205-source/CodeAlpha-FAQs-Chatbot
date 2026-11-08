@@ -101,5 +101,4 @@ CodeAlpha_ChatbotForFAQs/
 
 ## 📜 License
 
-This project is part of the CodeAlpha Internship Program.  
-Visit: [www.codealpha.tech](https://www.codealpha.tech)
+This project is open source and available under the MIT License.
